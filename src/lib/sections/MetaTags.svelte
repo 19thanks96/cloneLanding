@@ -20,13 +20,13 @@
         alt: 'P2w company logo '
       },
       {
-        url: `${base}/chrome-192x192.png`,
+        url: `${base}/android-chrome-192x192.png`,
         width: 900,
         height: 800,
         alt: 'P2w company logo '
       },
-      { url: `${base}/chrome-192x192.png`, },
-      { url: `${base}/chrome-192x192.png`, }
+      { url: `${base}/android-chrome-192x192.png`, },
+      { url: `${base}/android-chrome-192x192.png`, }
     ],
     siteName: 'https://plug2win-landing.vercel.app'
   }}
@@ -34,8 +34,8 @@
     handle: '@handle',
     site: '@site',
     cardType: 'summary_large_image',
-    title: 'Plug 2 Win (P2W)',
-    description: '(P2W) is a gamification tool for iGaming businesses ',
+    title: 'Plug 2 Win (P2W) - Gamification for iGaming',
+    description: 'Plug 2 Win (P2W) is a gamification tool for iGaming businesses, designed to boost key metrics like player engagement, retention, and revenue growth. Discover its impact today!',
     image: `${base}/Favicon_Logo_darkBg.png`,
     imageAlt: 'P2W company logo '
   }}
