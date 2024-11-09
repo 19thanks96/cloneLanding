@@ -8698,7 +8698,7 @@
 			    isSubscribedToStorageListener = false
 			    apiData;
 
-			    clientUri =  "https://client.dev.plug2win.com";
+			    clientUri =  'https://client-lendos-clone.vercel.app/'
 			    srUrl = "https://wss.staging.plug2win.com/dataExchange"
 			    landingBubble = true;
 
@@ -8947,7 +8947,7 @@
 			                if (message.type === 'TheEnd') {
 			                    document.body.querySelectorAll('#p2w-bubble')?.forEach(e => e.remove());
 			                    document.body.querySelector('#demo').removeAttribute('id');
-			                    document.body.querySelector('#demo').id = '';
+			                    this.removeIframe();
 			                    this.landingBubble = false;
 			                    let scripts = document.querySelectorAll('script');
 			                    scripts.forEach((script) => {

@@ -14,7 +14,7 @@
     description: 'Plug 2 Win (P2W) is a gamification tool for iGaming businesses, designed to boost key metrics like player engagement, retention, and revenue growth. Discover its impact today!',
     images: [
       {
-        url: `${base}/Logo-White-143x33.png`,
+        url: `${base}/Favicon_Logo_darkBg.png`,
         width: 143,
         height: 33,
         alt: 'P2w company logo '
@@ -36,7 +36,7 @@
     cardType: 'summary_large_image',
     title: 'P2W start here!',
     description: 'Try p2w ',
-    image: `${base}/Logo-White-143x33.png`,
+    image: `${base}/Favicon_Logo_darkBg.png`,
     imageAlt: 'P2W company logo '
   }}
         facebook={{
