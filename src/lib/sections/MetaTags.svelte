@@ -34,8 +34,8 @@
     handle: '@handle',
     site: '@site',
     cardType: 'summary_large_image',
-    title: 'P2W start here!',
-    description: 'Try p2w ',
+    title: 'Plug 2 Win (P2W)',
+    description: '(P2W) is a gamification tool for iGaming businesses ',
     image: `${base}/Favicon_Logo_darkBg.png`,
     imageAlt: 'P2W company logo '
   }}
